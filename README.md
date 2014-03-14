@@ -1,7 +1,7 @@
 learning
 ========
 
-exercícios e desafios para apredizado de programação
+Exercícios e desafios para disseminação de conhecimento do pessoal
 
 
 # O que é???
