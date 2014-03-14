@@ -1,9 +1,12 @@
-learning
+Python
 ========
 
-exercícios e desafios para apredizado de programação
+Exercícios e desafios para apredizado de programação
 
 
-# O que é???
+### Sites
 
-Esse repositório tem como objetivo o repasse de informações entre os membros de equipe, será utilizado para postar exercícios, artigos e qualquer tipo de material que servirá de ajuda para alguém.
+Sites especializados na linguagem, com dicas, materiais e documentação em geral
+
+* [python brasil](http://www.python.org.br)
+* [vitoratair.com.br](http://vitoratair.com.br)

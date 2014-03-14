@@ -1,4 +1,0 @@
-# Conteúdo para iniciantes na linguagem.
-
-1 - vitoratair.com.br/handbook/python
-
