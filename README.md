@@ -1,9 +1,19 @@
-learning
+O que é???
 ========
 
-Exercícios e desafios para disseminação de conhecimento do pessoal
+Com o objetivo de disseminação de conhecimento, a cada semana um integrante do time irá apresentar algo para os demais, com isso teremos materiais em diferentes áreas de conhecimento, que vão desde marketing, gestão de projetos, hardware, software e tecnologias em geral.
+
+====
+
+## [Agenda](https://github.com/vitoratair/learning/wiki/agenda)
+
+Visualização dos tópicos já apresentados e [agenda](https://github.com/vitoratair/learning/wiki/agenda) das próximas apresentações que serão ministradas até o final do mês.
 
 
-# O que é???
+====
 
-Esse repositório tem como objetivo o repasse de informações entre os membros de equipe, será utilizado para postar exercícios, artigos e qualquer tipo de material que servirá de ajuda para alguém.
+## Integrantes
+
++ [Vitor Atair](http://vitoratair.com.br)
++ [Thiago Oliveira]()
++ [Rodrigo Ramiro]()
